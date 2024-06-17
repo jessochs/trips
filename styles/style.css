@@ -15,6 +15,7 @@ header {
     justify-content: center;
     align-items: center;
     border-radius: solid black;
+    background-color: rgba(242, 112, 173, 0.667);
 }
 ul {
     list-style-type: none;
