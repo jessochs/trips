@@ -2,18 +2,29 @@
     width: 100%;
 }
 header {
-    background-color: navy;
+    background-color: rgba(0, 149, 255, 0.714);
     color: white;
+    text-align: center;
     width: 100%;
     padding: 20px;
 }
-ul li a {
+.index {
+    margin: auto;
+    padding: 20px;
+    line-height: 1.3;
+}
+.index ul li a {
     text-decoration: none;
     font-style: bold;
+    color: black;
+    font-size: 30px;
+
 }
 footer {
-    background-color: navy;
+    background-color: rgba(0, 149, 255, 0.714);
     color: white;
+    text-align: center;
+    font-size: 20px;
     width: 100%;
     padding: 20px;
 
